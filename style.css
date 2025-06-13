@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+}
+
+/* Header */
+header {
+    font-family: monospace;
+    background-color: rgba(248, 220, 185, 0.5);
+    padding: 20px;
+}
+
+/* Nav */
+nav {
+    background-color: rgb(248, 220, 185);
+    font-size: small;
+}
+
+nav ul li a {
+    color: black;
+    text-decoration: none;
+    display: block;
+    padding: 20px;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul {
+    list-style-type: none;
+    overflow: hidden;
+}
+
+nav ul li:hover {
+    background-color: rgb(249, 209, 159);
+}
+
+/* Home */
+.homeImage img {
+    width: 100%;
+}
+
+/* Section */
+.imageDiv {
+    width: 50%;
+    float: left;
+}
+
+.imageDiv img {
+    width: 100%;
+}
+
+.textDiv {
+    width: 50%;
+    float: left;
+    padding: 40px;
+}
+
+.title {
+    text-align: center;
+    padding: 10px;
+}
+
+.text {
+    font-size: 15px;
+    word-spacing: 10px;
+    text-align: justify;
+    line-height: 20px;
+}
+
+section {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+/* Footer */
+footer {
+    width: 50%;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.footerIcons i {
+    font-size: 20px;
+    margin: 20px 10px;
+}
