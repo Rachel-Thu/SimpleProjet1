@@ -1,6 +1,6 @@
 # % ΔRΔBICΔ
 
-A simple static website built with HTML and CSS.
+A simple static website built with HTML and CSS Float Method.
 
 ## 🌐 Live Demo
 🔗 [View it here](https://rachel-thu.github.io/SimpleProjet1/)
