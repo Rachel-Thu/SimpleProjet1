@@ -1,4 +1,4 @@
-# % ΔRΔBICΔ
+# % ΔRΔBICΔ – SimpleProjet1
 
 A simple static website built with HTML and CSS Float Method.
 
